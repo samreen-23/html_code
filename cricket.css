@@ -1,0 +1,35 @@
+.cricket-background{
+    background-color: rgb(170, 230, 250);
+    height: 180vh;
+    width: 100vw;
+    
+}
+.cricket1{
+    background-color: crimson;
+    height: 50vh;
+    color: white;
+     
+    margin-bottom: 20px;
+}
+.cricket2{
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.cricket-margin{
+    margin-left: 15px;
+    margin-top: 10px;
+} 
+.cricket-IPL{
+    background-color: white;
+    color: black;
+    width: 80vw;
+    height: 200px;
+    border-radius: 15px;
+    margin-left: 8rem;  
+}
+.cricket-margin2{
+    margin-left: 110px;
+}
+.img2{
+    margin: 30px;
+}

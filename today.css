@@ -1,0 +1,12 @@
+.today{
+    height: 150px;
+    width: 200px;
+   border: 2px solid black;
+   font-size: 48px;
+   width: 100px;
+   padding: 4px;
+}
+
+.todayword{
+overflow: scroll;
+}

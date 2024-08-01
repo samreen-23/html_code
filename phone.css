@@ -1,0 +1,15 @@
+.phone{
+    background-color: #fb4e71;
+     height: 90vh;
+    width: 230vh; 
+    background-size: cover;
+}
+.phone-button{
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 5px;
+     border: transparent;
+}
+.phone-button2{
+    margin-left: 100px;
+}

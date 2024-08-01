@@ -1,0 +1,26 @@
+.icon{
+    color: #d0b200;
+    font-size: 45px;
+}
+.icon-content {
+    background-color: beige;
+    width: 80px;
+    height: 80px;
+    border-radius:50%;
+    margin-top: 45px;
+    padding-top: 22px; 
+     padding-bottom: 14px; 
+     padding-left: 22px; 
+     padding-right: 16px; 
+     margin: 20px;
+}
+
+.follow-head {
+    text-align: center;
+    font-family: "Roboto";
+    color: rgb(54, 43, 43);
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 100px;
+}
+

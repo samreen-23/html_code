@@ -1,0 +1,15 @@
+
+.border{
+    width: 600px;
+    height: 500px;
+    border: 2px solid black;
+    background-color: rgb(188, 247, 216);
+    margin-left: 45vh;
+    justify-content: center;
+    margin-top: 10vh;
+    padding-top: 25px;
+    padding-left: 10px;   
+}
+.text{
+    text-align: center;
+}

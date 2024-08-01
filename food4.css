@@ -1,0 +1,21 @@
+.healthy-button{ background-color: #d0b200;
+    color: white;
+    border-radius: 8px;
+    border-color: #d0b200;
+    height: 45px;
+    width: 130px;
+    border-width: 0px;
+    margin-top: 20px;
+}
+.healthy-p1{
+    font-weight: 350;
+    font-size: 30px;
+    margin-top: 50px;
+    
+}
+.bg-1{
+    background-color: rgba(251, 253, 254, 0.991);
+}
+.healthy-para{
+    color: gray;
+}

@@ -1,0 +1,25 @@
+.background{
+    background-image: url(https://coolwallpapers.me/picsup/3115241-blur_book_candle_close-up_dark_flame_knowledge_learn_learning_light_paper_pen_research_shadow_study.jpg);
+     background-size: cover;
+     height: 100vh;
+     width: 100vw;
+    
+
+}
+.Heading
+{
+    color: white;
+    /* text-align: center; */
+}
+.san{
+    text-align: center;
+}
+.button{
+    margin-left:  650px;
+    background-color: orange;
+}
+.intro {
+    color: white;
+    text-align: center;
+    text-decoration-line:underline ;
+}

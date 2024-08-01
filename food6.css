@@ -1,0 +1,31 @@
+
+.thankyou-bg{
+    background-color:#f8eca8 ;
+    height: 500px;
+
+  }
+  
+.thankyou-imge2{
+    height: 300px;
+    width: 300px;
+    
+    
+   
+   }
+.thankyou-pera3{
+    color: grey;
+}
+.thankyou-button{
+    color: white;
+    border-radius: 5px;
+height: 40px;
+width: 130px;
+border-width: 0px;
+background-color: #d0b200;
+}
+.thankyou-heading{
+    margin-top: 100px;
+}
+.thank-you{
+    margin-top: 7%;
+}

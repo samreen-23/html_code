@@ -1,0 +1,23 @@
+.explore-img{
+    height: 390px;
+    width: 300px;
+    border-radius: 29px;
+}
+.cart{
+    height: 270px;
+    width: 250px;
+    border-radius: 20px;
+    padding-top: 5px;
+}
+*{
+    margin: 15px;
+    padding: 0px;
+}
+a{
+    color: rgb(232, 150, 27);
+}
+.head{
+    color: rgb(13, 13, 63);
+    padding-top: 20px;
+
+}

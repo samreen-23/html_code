@@ -1,0 +1,22 @@
+.lala{
+    background-image:url(https://img.freepik.com/free-photo/abstract-cloud-azure-haze_23-2148102101.jpg?t=st=1709215614~exp=1709219214~hmac=da25da3aeece62ff99cb003dca8df7e9f701f9fa66d73e1cbeabd56c37d5baa8&w=826);
+    height: 160vh;
+    width: 300vw;
+    background-size: cover;
+    color: aliceblue;
+}
+.container{
+    background-color: white;
+    color: rgb(6, 6, 48);
+    background-size: cover;
+    margin: 25px;
+    border-radius: 10px;
+
+}
+.img{
+    border-radius: 5px;
+    padding-top: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-bottom: 10px;
+}

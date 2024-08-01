@@ -1,0 +1,25 @@
+.border{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.code{
+    height: 400px;
+    width: 400px;
+    border-color: green;
+    border-style: solid;
+    border-width: 5px;
+    font-family:"Roboto";
+    margin: 150px;
+    margin-left: 400px;
+    height: 300px;
+    padding-bottom: 100px;
+    
+    
+}
+.para{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}

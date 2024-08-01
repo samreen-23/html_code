@@ -1,0 +1,271 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.user{
+    background-size: cover;
+    height: 100vh;
+    background-image: url(https://images-ext-2.discordapp.net/external/LR3xk241kTKmmUn6T_n72-CUptbiEBN6wqost5LXx5o/%3Fw%3D740%26t%3Dst%3D1709028267~exp%3D1709028867~hmac%3D163905a6d93a7f7258d716b17e365604144b104aa86f755b2190f1c0c2030082/https/img.freepik.com/free-photo/top-view-fresh-delicious-chinese-food-dark-background_24972-2170.jpg?format=webp&width=855&height=570);
+}
+.banner{
+    color: aliceblue;
+    font-family: roboto;
+    font-size: 45px;
+    font-weight: 300px;
+}
+.sunn{
+    width: 145px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+
+}
+.runn{
+    width: 145px;
+    height: 45px;
+    color: white;
+    background-color:transparent;
+    border-radius: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d0b200;
+    
+
+}
+.verner{
+    color: #f5f7fa;
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: 300;
+}
+
+
+/* why choose us */
+
+
+    .why-box{
+        border-radius: 15px;
+        
+        /* padding-top: 5px;
+        padding-bottom: 5px; */
+    }
+    .why-para{
+        font-weight: bold;
+        font-style: "roboto";
+        
+    }
+    .why-para2{
+        font-weight: bold;
+        font-style:"roboto";
+        /* padding-left: 95px; */
+    }
+    .why-headind{
+        font-weight: bold;
+        font-style:"roboto";
+        /* padding-left: 95px; */
+    color: rgb(23, 23, 82);
+    padding-top: 15px;
+    }
+
+    .card1{
+        /* width: 440px; */
+        background-color: white;
+        height: 400px;
+        width: 400px;
+    }
+    
+
+
+    /* explore menu */
+
+
+    .explore-img{
+        height: 420px;
+        width: 310px;
+        border-radius: 29px;
+        /* margin: 5px; */
+        margin-top: 10px;
+        /* margin: 15px; */
+    
+        
+    }
+    
+    .cart{
+        height: 310px;
+        width: 290px;
+        border-radius: 20px;
+        margin-top: 20px;
+        
+        
+    }
+    
+    
+    a{
+        color: rgb(232, 150, 27);
+    }
+    .head{
+        color: rgb(13, 13, 63);
+        padding-top: 20px;
+    
+    }
+    
+
+
+    .healthy-button{ background-color: #d0b200;
+        color: white;
+        border-radius: 8px;
+        border-color: #d0b200;
+        height: 45px;
+        width: 130px;
+        border-width: 0px;
+        margin-top: 20px;
+    }
+    .healthy-p1{
+        font-weight: 350;
+        font-size: 30px;
+        margin-top: 50px;
+        
+    }
+    .bg-1{
+        background-color: rgba(251, 253, 254, 0.991);
+        margin-bottom: 7%;
+    }
+    .healthy-para{
+        color: gray;
+    }
+
+
+
+    /* dilvery and payment */
+
+    .payment-imge{
+        height: 250px;
+        width: 250px;
+       margin-left: 50px;
+       margin-bottom:30px ;
+    }
+    
+    .payment-button{
+        color: white;
+        border-radius: 5px;
+    background-color: #d0b200;
+    height: 40px;
+    width: 130px;
+    border-width: 0px;
+    }
+    .payment-pics{
+    height: 50px;
+    width: 60px;
+    margin: 10px;
+    }
+    .order-md-1{
+        order: 1;
+    
+    }
+    .dlivery-margin{
+        margin-left: 20px;
+    }
+    .payment-paregraph{
+        color: gray;
+    }
+        
+
+
+    /* thank you */
+
+    .thankyou-bg{
+        background-color:#fff8bd;
+    
+      }
+      
+    .thankyou-imge2{
+        height: 300px;
+        width: 300px;
+        
+        
+       
+       }
+    .thankyou-pera3{
+        color: grey;
+    }
+    .thankyou-button{
+        color: white;
+        border-radius: 5px;
+    height: 40px;
+    width: 130px;
+    border-width: 0px;
+    background-color: #d0b200;
+    }
+    .thankyou-heading{
+        margin-top: 100px;
+    }
+    .thank-you{
+        margin-top: 7%;
+    }
+
+
+
+
+    /* follow us */
+.follow-background{
+    background-color: white;
+}
+    .icon{
+        color: #d0b200;
+        font-size: 45px;
+    }
+    .icon-content {
+        background-color: beige;
+        width: 80px;
+        height: 80px;
+        border-radius:50%;
+        margin-top: 45px;
+        padding-top: 22px; 
+         padding-bottom: 14px; 
+         padding-left: 22px; 
+         padding-right: 16px; 
+         margin: 20px;
+    }
+    
+    .follow-head {
+        text-align: center;
+        font-family: "Roboto";
+        color: rgb(54, 43, 43);
+        font-size: 30px;
+        font-weight: 700;
+        margin-left: 100px;
+    }
+     .follow-us{
+        margin: 12%;
+     }
+
+     /* last-col */
+
+     .logo-color{
+        background-color: rgb(6, 41, 42);
+        background-size: cover;
+         
+     }
+     .logo-image{
+         height: 80px;
+         width: 100px;
+         margin-top: 25px;
+     }
+     .logopera{
+         color: gray;
+         font-size: 20px;
+         font-weight: 400;
+         margin-top: 2%;
+     }
+     .logo-para{
+         color: gray;
+         font-size: 15px;
+         font-weight: 200;
+     }
+     *{
+         margin: 0;
+     }

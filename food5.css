@@ -1,0 +1,29 @@
+.payment-imge{
+    height: 250px;
+    width: 250px;
+   margin-left: 50px;
+}
+
+.payment-button{
+    color: white;
+    border-radius: 5px;
+background-color: #d0b200;
+height: 40px;
+width: 130px;
+border-width: 0px;
+}
+.payment-pics{
+height: 50px;
+width: 60px;
+margin: 10px;
+}
+.order-md-1{
+    order: 1;
+
+}
+.dlivery-margin{
+    margin-left: 20px;
+}
+.payment-paregraph{
+    color: gray;
+}

@@ -1,0 +1,24 @@
+.logo-color{
+   background-color: rgb(6, 41, 42);
+   background-size: cover;
+    
+}
+.logo-image{
+    height: 80px;
+    width: 100px;
+    margin-top: 25px;
+}
+.logopera{
+    color: gray;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 2%;
+}
+.logo-para{
+    color: gray;
+    font-size: 15px;
+    font-weight: 200;
+}
+*{
+    margin: 0;
+}

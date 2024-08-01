@@ -1,0 +1,34 @@
+.heading{
+    color: blue;
+}
+.media-all{
+    color: aquamarine;
+}
+bg-container{
+    color: green;
+}
+
+.bg-container{
+    background-color: green;
+    background-size: cover;
+}
+@media( max-width:799px){
+    .bg-container{
+        background-color: orange;
+    }
+}
+
+@media( width:800px){
+    .bg-container {
+        background-color: pink;
+   
+    }
+}
+@media( min-widt-801px){
+    .bg-container{
+        background-color: red;
+    }
+}
+
+
+

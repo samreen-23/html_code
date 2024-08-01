@@ -1,0 +1,47 @@
+.background{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+    background-size: cover;
+    text-emphasis-color: #ffffff;
+}
+.topic{
+
+    color: #ffffff; 
+    text-align: center; 
+    
+
+}
+.sam
+{
+ text-align: right;
+ background-color: #47a3f3;
+ font-family: Roboto;
+ border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+margin-left: 10px;
+margin-right: 10px;
+box-sizing: 100px;
+padding: 10px;
+
+}
+.jam{
+    text-align: left;
+ background-color: #52606d;
+ font-family: Roboto;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+margin-right: 10px;
+margin-left: 10px;
+padding: 10px;
+
+}
+
+.size{
+    /* font-size: 1em; */
+    font-weight: 100;
+}
+.vin{
+    background-color: #52606d;
+    margin-bottom: 50px;
+}

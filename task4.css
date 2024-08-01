@@ -1,0 +1,94 @@
+.dishes{
+background-image: url(https://img.freepik.com/premium-photo/uzbek-central-asia-cuisine-concept-assorted-uzbek-food-pilaf-samsa-lagman-manti-shurpa-uzbek-restaurant-concept-uzbek-food_114941-571.jpg?w=740);
+height: 100vh;
+background-size: cover;
+width: 100vw;
+color: white;
+}    
+.sam{
+    margin-left: 50px;
+    padding:100px ;
+
+    
+
+}
+
+.bg1{
+    background-color: black;
+    height: 400px;
+}
+.ram{
+    color: gainsboro;
+    font-style: italic;
+}
+.fish{
+    background-color: white;
+    height: 300vh;
+    width: 100vw;
+
+}
+.Rose{
+    color: black;
+     text-align: center;
+}
+.nav{
+    /* background-color: black; */
+    height: 100px;
+    width: 100px;
+}
+.nav1 {
+    background-color: black  !important;
+
+}
+.ziya{
+    height: 300px;
+    width: 350px; 
+    border: 10px;
+    border-color: black;
+    
+
+}
+.sahil{
+    color: skyblue;
+    margin-left: 80px;
+}
+.miss{
+    color: black;
+    margin-left: 130px;
+}
+.imaan{
+    background-color: red;
+    height: 30px;
+    font-size: 10px;
+    color: white;
+    margin-left: 120px;
+
+}
+.flex{
+    display: flex;
+}
+.line{
+    margin-left: 80px;
+}
+.mine{
+    margin-left: 80px;
+}
+.sine{
+    margin-left: 80px;
+}
+
+.img{
+    height: 10vh;
+    width: 30%;
+}
+.color{
+    background-color: black;
+}
+.say{
+    height: 60px;
+}
+
+
+
+
+

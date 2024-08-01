@@ -1,0 +1,41 @@
+.panel {
+    background-color: aliceblue;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.why-box {
+    border-radius: 10px;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.why-para {
+    font-weight: bold;
+    font-style: "roboto";
+
+}
+
+.why-para2 {
+    font-weight: bold;
+    font-style: "roboto";
+     padding-left: 95px; 
+}
+
+.why-headind {
+    font-weight: bold;
+    font-style: "roboto";
+    padding-left: 95px;
+    color: rgb(23, 23, 82);
+    padding-top: 15px;
+}
+
+.bg-white {
+    background-color: aliceblue;
+    color: rgb(25, 25, 26);
+    height: 400px;
+    width: 300px;
+}

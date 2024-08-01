@@ -1,0 +1,25 @@
+.container{
+  background-image:url(https://img.freepik.com/premium-photo/abstract-blue-background_196038-16095.jpg?w=740);
+  background-size: cover;
+  color: aliceblue;
+  height: 200vh;
+  width: 200vh;
+}
+.objective{
+  background-color: white;
+  color: rgb(6, 6, 48);
+  background-size: 100px;
+  margin: 108px;
+}
+.text{
+  padding: 20px;
+}
+.subject{
+  height: 100vh;
+  width: 900px;
+  margin: 108px;
+}
+img{
+  height: 200px;
+  width: 200px;
+}
